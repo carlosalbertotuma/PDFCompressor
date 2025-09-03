@@ -20,3 +20,16 @@ sudo apt-get install ghostscript
 # Utilização
 
 python3  PDFCompressor.py entrada.pdf saida.pdf
+
+
+--
+## 🛠️ Contribuições
+Sinta-se à vontade para abrir issues ou pull requests com correções, melhorias de UI ou novas questões!
+
+---
+## 📄 Licença
+Este projeto está sob a licença MIT.
+
+---
+## 🙋‍♂️ Autor
+Desenvolvido por Bl4dsc4n
